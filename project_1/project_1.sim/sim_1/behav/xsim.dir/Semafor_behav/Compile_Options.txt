@@ -1,0 +1,1 @@
+-wto "8570971a54334e69bcd52bbd38ff6d93" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Semafor_behav" "xil_defaultlib.Semafor" -log "elaborate.log" 
